@@ -4,7 +4,9 @@
 </h1>
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=auraarfannisa" alt="auraarfannisa"/>       
+    <img src="https://komarev.com/ghpvc/?username=auraarfannisa" alt="auraarfannisa"/> 
+    <img src="https://badges.pufler.dev/years/auraarfannisa" alt="Active_Years"/>
+    <!--<a href="https://github.com/milaan9/milaan9" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="commits"/>--> 
     <a href="https://github.com/auraarfannisa/auraarfannisa/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/auraarfannisa/auraarfannisa" /></a>
     <a href="https://github.com/auraarfannisa?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/auraarfannisa?color=4C1&logo=github"></a>
     <a href="https://github.com/auraarfannisa/auraarfannisa" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/auraarfannisa/auraarfannisa?label=Profile%20update&style=fflat-square"></a>
