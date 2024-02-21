@@ -1,4 +1,7 @@
-<h1 align="center">Hey! Nice to see you </h1>
+<h1 align="center">
+    <img src="https://media.giphy.com/media/3o7bueu4ZG922XFY7S/giphy.gif?cid=ecf05e47yf8nbqpbbmho0zzgqcldohhbnhfwa3rue2fnpe4y&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40"> Hey! Nice to see you! 
+    <img src="https://media.giphy.com/media/3o7bueu4ZG922XFY7S/giphy.gif?cid=ecf05e47yf8nbqpbbmho0zzgqcldohhbnhfwa3rue2fnpe4y&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40">
+</h1>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=auraarfannisa" alt="auraarfannisa"/>       
@@ -12,7 +15,9 @@
 
 
 <h3 align="center"> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Aura Arfannisa Az Zahra! <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21">
+    </a> Hi, I'am Aura Arfannisa Az Zahra! 
+    <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
 </h3> 
 
 <p align="center">   
