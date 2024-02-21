@@ -4,7 +4,8 @@
 </h1>
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=auraarfannisa" alt="auraarfannisa"/> 
+    <img src="https://komarev.com/ghpvc/?username=auraarfannisa" alt="auraarfannisa"/>
+    <img src="https://badges.pufler.dev/visits/auraarfannisa/auraarfannisa alt="Visits"/>
     <img src="https://badges.pufler.dev/years/auraarfannisa" alt="Active_Years"/>
     <a href="https://github.com/milaan9/auraarfannisa" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/auraarfannisa" alt="commits"/>
     <a href="https://github.com/auraarfannisa/auraarfannisa/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/auraarfannisa/auraarfannisa" /></a>
